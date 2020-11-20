@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string-array name="listaPaises">
+        <item>-- Selecciona un pais --</item>
+        <item>España</item>
+        <item>Alemania</item>
+        <item>Bélgica</item>
+    </string-array>
+</resources>
